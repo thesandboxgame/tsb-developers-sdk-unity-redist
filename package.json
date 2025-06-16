@@ -9,4 +9,16 @@
     "email": "info@sandbox.game",
     "url": "https://www.sandbox.game"
   }
+  "samples": [
+    {
+      "displayName": "Avatar Demo",
+      "description": "Sample of how to use avatars and assets.",
+      "path": "Samples~/AvatarDemo"
+    },
+    {
+      "displayName": "Developer Demo",
+      "description": "Sample how to use all the features of the Sdk.",
+      "path": "Samples~/DeveloperDemo"
+    }
+  ]
 }
