@@ -1,0 +1,12 @@
+{
+  "name": "SandboxDeveloperSDK",
+  "version": "1.0.0", 
+  "displayName": "Sandbox Developers SDK for Unity",
+  "description": "Sandbox Developers SDK for Unity",
+  "unity": "2022.3",
+  "author": {
+    "name": "The Sandbox",
+    "email": "info@sandbox.game",
+    "url": "https://www.sandbox.game"
+  }
+}
