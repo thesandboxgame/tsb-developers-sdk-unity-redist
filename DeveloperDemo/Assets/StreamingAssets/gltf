@@ -1,0 +1,155 @@
+{
+  "images": [
+    {"uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAA9hAAAPYQGoP6dpAAAJiUlEQVR4Xu3TMapEUVttUftjYmAmpvJ6YA/sfw8UhILNDN6FVeyfcjMGrOQGp879OPOf/us//v2//6/v//3LP//v+vd1n+d9u3+CX9eP/9v957/96z9sn9/8BNd3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/5/PRN66/1mjW53yzBtt3WdeQ1/XW8HM+H33j+muNZn3ON2uwfZd1DXldbw0/px//t2ukN/f5zU9wfZd1DXldbw0/px//t2ukN/f5zU9wfZd1DXldbw0/px/tsjOeRnpzDbYhr+v/t663hp/Tj3bZGU8jvbkG25DX9f9b11vDk854GunNNdiGvK4hr+ud4ElnPI305hpsQ17XkNf1TvCkM55GenMNtiGva8jreid40hlPI725BtuQ1zXkdb0TPOmMp5HeXINtyOsa8rreCZ50xtNIb67BNuR1DXld7wRPOuNppDfXYBvyuoa8rneCJ53xNNKba7ANeV1DXtc7wZPOeBrpzTXYhryuIa/rneBJZzyN9OYabENe15DX9U7wpDOeRnpzDbYhr2vI63oneNIZTyO9uQbbkNc15HW9EzzpjKeR3lyDbcjrGvK63gmedMbTSG+uwTbkdQ15Xe8ETzrjaaQ312Ab8rqGvK53gied8TTSm2uwDXldQ17XO8GTznga6c012Ia8riGv653gSWc8jfTmGmxDXteQ1/VO8KQznkZ6cw22Ia9ryOt6J3jSGU8jvbkG25DXNeR1vRM86Yynkd5cg23I6xryut4JnnTG00hvrsE25HUNeV3vBE8642mkN9dgG/K6hryud4InnfE00ptrsA15XUNe1zvBk854GunNNdiGvK4hr+ud4ElnPI305hpsQ17XkNf1TvCkM55GenMNtiGva8jreid40hlPI725BtuQ1zXkdb0TPOmMp5HeXINtyOsa8rreCZ50xtNIb67BNuR1DXld7wRPOuNppDfXYBvyuoa8rneCJ53xNNKba7ANeV1DXtc7wZPOeBrpzTXYhryuIa/rneBJZzyN9OYabENe15DX9U7wpDOeRnpzDbYhr2vI63oneNIZTyO9uQbbkNc15HW9EzzpjKeR3lyDbcjrGvK63gmedMbTSG+uwTbkdQ15Xe8ETzrjaaQ312Ab8rqGvK53gied8TTSm2uwDXldQ17XO8GTznga6c012Ia8riGv653gSWc8jfTmGmxDXteQ1/VO8KQznkZ6cw22Ia9ryOt6J3jSGU8jvbkG25DXNeR1vRM86Yynkd5cg23I6xryut4JnnTG00hvrsE25HUNeV3vBE8642mkN9dgG/K6hryud4InnfE00ptrsA15XUNe1zvBk854GunNNdiGvK4hr+ud4ElnPI305hpsQ17XkNf1TvCkM55GenMNtiGva8jreid40hlPI725BtuQ1zXkdb0TPOmMp5HeXINtyOsa8rreCZ50xtNIb67BNuR1DXld7wRPOuNppDfXYBvyuoa8rneCJ53xNNKba7ANeV1DXtc7wZPOeBrpzTXYhryuIa/rneBJZzyN9OYabENe15DX9U7wpDOeRnpzDbYhr2vI63oneNIZTyO9uQbbkNc15HW9EzzpjKeR3lyDbcjrGvK63gmedMbTSG+uwTbkdQ15Xe8ETzrjaaQ312Ab8rqGvK53gied8TTSm2uwDXldQ17XO8GTznga6c012Ia8riGv653gSWc8jfTmGmxDXteQ1/VO8KQznkZ6cw22Ia9ryOt6J3jSGU8jvbkG25DXNeR1vRM86Yynkd5cg23I6xryut4JnnTG00hvrsE25HUNeV3vBE8642mkN9dgG/K6hryud4InnfE00ptrsA15XUNe1zvBk854GunNNdiGvK4hr+ud4ElnPI305hpsQ17XkNf1TvCkM55GenMNtiGva8jreid40hlPI725BtuQ1zXkdb0TPOmMp5HeXINtyOsa8rreCZ50xtNIb67BNuR1DXld7wRPOuNppDfXYBvyuoa8rneCJ53xNNKba7ANeV1DXtc7wZPOeBrpzTXYhryuIa/rneBJZzyN9OYabENe15DX9U7wpDOeRnpzDbYhr2vI63oneNIZTyO9uQbbkNc15HW9EzzpjKeR3lyDbcjrGvK63gmedMbTSG+uwTbkdQ15Xe8ETzrjaaQ312Ab8rqGvK53gied8TTSm2uwDXldQ17XO8GTznga6c012Ia8riGv653gSWc8jfTmGmxDXteQ1/VO8KQznkZ6cw22Ia9ryOt6J3jSGU8jvbkG25DXNeR1vRM86Yynkd5cg23I6xryut4JnnTG00hvrsE25HUNeV3vBE9qQP/ofYLr39c15HW9EzypAf2j9wmuf1/XkNf1TgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMD/1/8AdrSmiV9LarIAAAAASUVORK5CYII="},
+    {"uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAA9hAAAPYQGoP6dpAAAC8UlEQVR4Xu3SsWlAURADwd9/03agTJGDZzjQDGwH+33f96N/C87rafUuOK+n1bvgvJ5W74Lzelq9C87rafUuOK+n1bvgvJ5W74Lzelq9C87rafUuOK+n1bvgvJ5W74Lzelq9C87rafUuOK+n1bvgvJ5W74Lzelq9C87rafUuOK+n1bvgvJ5W74Lzelq9C87rafUuOK+n1bvgvJ5W74Lzelq9C87rafUuOK+n1bvgvJ5W74Lzelq9C87rafUuOK+n1bvgvJ5W74Lzelq9Cyb0+EowocdXggk9vhJM6PGVYEKPrwQTenwlmNDjK8GEHl8JJvT4SjChx1eCCT2+Ekzo8ZVgQo+vBBN6fCWY0OMrwYQeXwkm9PhKMKHHV4IJPb4STOjxlWBCj68EE3p8JZjQ4yvBhB5fCSb0+EowocdXggk9vhJM6PGVYEKPrwQTenwlmNDjK8GEHl8JJvT4SjChx1eCCT2+Ekzo8ZVgQo+vBBN6fCWY0OMrwYQeXwkm9PhKMKHHV4IJPb4STOjxlWBCj68EE3p8JZjQ4yvBhB5fCSb0+EowocdXggk9vhJM6PGVYEKPrwQTenwlmNDjK8GEHl8JJvT4SjChx1eCCT2+Ekzo8ZVgQo+vBBN6fCWY0OMrwYQeXwkm9PhKMKHHV4IJPb4STOjxlWBCj68EE3p8JZjQ4yvBhB5fCSb0+EowocdXggk9vhJM6PGVYEKPrwQTenwlmNDjK8GEHl8JJvT4SjChx1eCCT2+Ekzo8ZVgQo+vBBN6fCWY0OMrwYQeXwkm9PhKMKHHV4IJPb4STOjxlWBCj68EE3p8JZjQ4yvBhB5fCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPi7X1mpU7VS9AyiAAAAAElFTkSuQmCC"}
+  ],
+  "accessors": [
+    {
+      "componentType": 5126,
+      "min": [
+        -64,
+        -8,
+        -16
+      ],
+      "byteOffset": 0,
+      "bufferView": 0,
+      "max": [
+        64,
+        8,
+        16
+      ],
+      "count": 36,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "byteOffset": 0,
+      "bufferView": 1,
+      "count": 36,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "byteOffset": 0,
+      "bufferView": 2,
+      "count": 36,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5126,
+      "byteOffset": 0,
+      "bufferView": 2,
+      "count": 36,
+      "type": "VEC2"
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "sampler": 0
+    },
+    {
+      "source": 1,
+      "sampler": 0
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 432,
+      "uri": "data:application/octet-stream;base64,AACAwgAAAMEAAIBBAACAwgAAAEEAAIBBAACAwgAAAEEAAIDBAACAwgAAAEEAAIDBAACAwgAAAMEAAIDBAACAwgAAAMEAAIBBAACAQgAAAMEAAIDBAACAQgAAAEEAAIDBAACAQgAAAEEAAIBBAACAQgAAAEEAAIBBAACAQgAAAMEAAIBBAACAQgAAAMEAAIDBAACAwgAAAMEAAIDBAACAQgAAAMEAAIDBAACAQgAAAMEAAIBBAACAQgAAAMEAAIBBAACAwgAAAMEAAIBBAACAwgAAAMEAAIDBAACAwgAAAEEAAIBBAACAQgAAAEEAAIBBAACAQgAAAEEAAIDBAACAQgAAAEEAAIDBAACAwgAAAEEAAIDBAACAwgAAAEEAAIBBAACAwgAAAEEAAIDBAACAQgAAAEEAAIDBAACAQgAAAMEAAIDBAACAQgAAAMEAAIDBAACAwgAAAMEAAIDBAACAwgAAAEEAAIDBAACAwgAAAMEAAIBBAACAQgAAAMEAAIBBAACAQgAAAEEAAIBBAACAQgAAAEEAAIBBAACAwgAAAEEAAIBBAACAwgAAAMEAAIBB"
+    },
+    {
+      "byteLength": 432,
+      "uri": "data:application/octet-stream;base64,AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/"
+    },
+    {
+      "byteLength": 288,
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAD4AAIA9AAAAPgAAgD0AAAAAAACAPQAAAAAAAAAAAAAAAAAAAAAAAAA+AAAAAAAAAAAAAIA9AAAAAAAAgD0AAAA+AACAPQAAAD4AAAAAAAAAPgAAAAAAAAAAAACQPQAAAD8AAJA9AAAAAAAASD4AAAAAAABIPgAAAAAAAEg+AAAAPwAAkD0AAAA/AABIPgAAAD8AAEg+AAAAAAAAkD0AAAAAAACQPQAAAAAAAJA9AAAAPwAASD4AAAA/AACIPgAAAD8AAIg+AAAAAAAAUD4AAAAAAABQPgAAAAAAAFA+AAAAPwAAiD4AAAA/AACMPgAAAD8AAIw+AAAAAAAArD4AAAAAAACsPgAAAAAAAKw+AAAAPwAAjD4AAAA/"
+    }
+  ],
+  "bufferViews": [
+    {
+      "byteOffset": 0,
+      "byteLength": 432,
+      "buffer": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "byteOffset": 0,
+      "byteLength": 432,
+      "buffer": 1,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "byteOffset": 0,
+      "byteLength": 288,
+      "buffer": 2,
+      "byteStride": 8,
+      "target": 34962
+    }
+  ],
+  "samplers": [{
+    "minFilter": 9728,
+    "wrapT": 33071,
+    "wrapS": 33071,
+    "magFilter": 9728
+  }],
+  "scene": 0,
+  "nodes": [{
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "translation": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      -1,
+      1,
+      1
+    ],
+    "mesh": 0
+  }],
+  "materials": [{
+    "name": "Road_4Way-Material",
+    "emissiveTexture": {
+      "index": 1,
+      "texCoord": 1
+    },
+    "pbrMetallicRoughness": {
+      "baseColorTexture": {"index": 0},
+      "metallicFactor": 0,
+      "roughnessFactor": 1
+    },
+    "emissiveFactor": [
+      1,
+      1,
+      1
+    ]
+  }],
+  "animations": [],
+  "scenes": [{"nodes": [0]}],
+  "asset": {
+    "generator": "VoxEdit Beta 10e52324",
+    "version": "2.0"
+  },
+  "meshes": [{
+    "primitives": [{
+      "mode": 4,
+      "material": 0,
+      "attributes": {
+        "POSITION": 0,
+        "TEXCOORD_1": 3,
+        "TEXCOORD_0": 2,
+        "NORMAL": 1
+      }
+    }],
+    "name": "Road_4Way-Mesh"
+  }]
+}
