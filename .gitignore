@@ -1,0 +1,30 @@
+# Ignorar carpetas generadas por Unity dentro de cada subproyecto
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/UserSettings/
+**/MemoryCaptures/
+
+# Archivos temporales
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# VSCode y Rider
+**/.vscode/
+**/.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.aab
+*.exe
