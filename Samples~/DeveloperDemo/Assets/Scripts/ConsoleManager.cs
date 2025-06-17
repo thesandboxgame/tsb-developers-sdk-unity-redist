@@ -56,7 +56,7 @@ public class ConsoleManager : MonoBehaviour
     async void Start()
     {
         var settings = new OAuthSettings()
-            { ClientId = "sandbox-partner", ClientSecret = "", RedirectUri = "developertest://auth", Scope = "openid" };
+            { ClientId = "YOUR_CLIENT_ID", ClientSecret = "YOUR_CLIENT_SECRET", RedirectUri = "developertest://auth", Scope = "openid" };
         SandboxSDK.Initialize(settings);
 
         PopulateFunctions();

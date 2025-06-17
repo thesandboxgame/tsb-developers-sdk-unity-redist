@@ -30,7 +30,7 @@ public class GameManager : MonoBehaviour
         progressBar.transform.localScale = new Vector3(0, 1, 1);
         
         var settings = new Sandbox.Developers.Models.OAuthSettings()
-            { ClientId = "sandbox-partner", ClientSecret = "", RedirectUri = "shooterdemo://auth", Scope = "openid" };
+            { ClientId = "YOUR_CLIENT_ID", ClientSecret = "YOUR_CLIENT_SECRET", RedirectUri = "avatardemo://auth", Scope = "openid" };
         SandboxSDK.Initialize(settings);
         
 #if !UNITY_EDITOR
