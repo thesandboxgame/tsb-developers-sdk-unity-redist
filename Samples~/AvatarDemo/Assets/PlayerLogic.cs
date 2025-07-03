@@ -2,7 +2,7 @@
 using UnityEngine;
 
 
-[RequireComponent(typeof(SandboxAssetImporter))]
+[RequireComponent(typeof(SandboxAsset))]
 public class PlayerLogic: MonoBehaviour
 {
     private enum PlayerState {
@@ -15,12 +15,12 @@ public class PlayerLogic: MonoBehaviour
     private PlayerState state;
     private Vector3 target;
     private Vector3 direction;
-    private SandboxAssetImporter importer;
+    private SandboxAsset asset;
 
     public void Start()
     {
-        importer = GetComponent<SandboxAssetImporter>();
-        importer.PlayAnimation("Idle 01", true);
+        asset = GetComponent<SandboxAsset>();
+        asset.PlayAnimation("Idle 01", true);
         state = PlayerState.Idle;
     }
 
@@ -54,12 +54,12 @@ public class PlayerLogic: MonoBehaviour
             
             if (shouldRun && state != PlayerState.Running)
             {
-                importer.PlayAnimation("Run 01", true);
+                asset.PlayAnimation("Run 01", true);
                 state = PlayerState.Running;
             }
             else if (!shouldRun && state != PlayerState.Walking)
             {
-                importer.PlayAnimation("Walk 01", true);
+                asset.PlayAnimation("Walk 01", true);
                 state = PlayerState.Walking;
             }
         }
@@ -68,13 +68,13 @@ public class PlayerLogic: MonoBehaviour
             if (shouldDance && state != PlayerState.Dancing)
             {
                 state = PlayerState.Dancing;
-                importer.PlayAnimation("Dance SnoopDogg 01", true);
+                asset.PlayAnimation("Dance SnoopDogg 01", true);
             }
 
             if (state != PlayerState.Dancing)
             {
                 if (state != PlayerState.Idle)
-                    importer.PlayAnimation("Idle 01", true);
+                    asset.PlayAnimation("Idle 01", true);
                 state = PlayerState.Idle;
             }
         }

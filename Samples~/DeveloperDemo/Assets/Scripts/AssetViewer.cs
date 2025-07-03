@@ -8,7 +8,7 @@ namespace DefaultNamespace
     public class AssetViewer : MonoBehaviour
     {
         private GameObject asset;
-        private SandboxAssetImporter importer;
+        private SandboxAsset importer;
         public GameObject stage;
         public Dropdown dropdownAnimations;
         public Toggle toggleLoop;
@@ -35,7 +35,7 @@ namespace DefaultNamespace
             gameObject.SetActive(true);
             asset = new GameObject();
             asset.transform.parent = stage.transform;
-            importer = asset.AddComponent<SandboxAssetImporter>();
+            importer = asset.AddComponent<SandboxAsset>();
             await importer.ImportAssetById(assetId);
             CenterAssetToCamera();
             if (importer.HasAnimations())

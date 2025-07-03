@@ -85,13 +85,13 @@ public class GameManager : MonoBehaviour
         // Add trees
         for (int i = 0; i <= 10; i++)
         {
-            SandboxAssetImporter asset = await SandboxSDK.InstantiateAsset(TREE_ID);
+            SandboxAsset asset = await SandboxSDK.InstantiateAsset(TREE_ID);
             asset.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
             asset.transform.position = new Vector3(-200 + i * 40f, 0, i % 2 == 0 ? 30f : 100f);
         }
 
         // Add player
-        SandboxAssetImporter player = await SandboxSDK.InstantiateAsset(playerAssetId);
+        SandboxAsset player = await SandboxSDK.InstantiateAsset(playerAssetId);
         player.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
         cameraManager.SetTarget(player.gameObject);
         player.gameObject.AddComponent<PlayerLogic>();
@@ -125,7 +125,7 @@ public class GameManager : MonoBehaviour
     /// <param name="assetId">asset id to spawn</param>
     private async UniTask SpawnNPC(string assetId)
     {
-        SandboxAssetImporter enemy = await SandboxSDK.InstantiateAsset(assetId);
+        SandboxAsset enemy = await SandboxSDK.InstantiateAsset(assetId);
         enemy.gameObject.AddComponent<NPCLogic>();
         enemy.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
         enemy.transform.position =

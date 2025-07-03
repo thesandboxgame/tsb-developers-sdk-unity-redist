@@ -2,7 +2,7 @@
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-[RequireComponent(typeof(SandboxAssetImporter))]
+[RequireComponent(typeof(SandboxAsset))]
 public class NPCLogic: MonoBehaviour
 {
     enum NPCState
@@ -14,14 +14,14 @@ public class NPCLogic: MonoBehaviour
     private NPCState state;
     private Vector3 target;
     private Vector3 direction;
-    private SandboxAssetImporter importer;
+    private SandboxAsset asset;
 
     private float speed = 20f;
 
     public void Start()
     {
-        importer = GetComponent<SandboxAssetImporter>();
-        importer.PlayAnimation("Idle 01", true);
+        asset = GetComponent<SandboxAsset>();
+        asset.PlayAnimation("Idle 01", true);
         state = NPCState.Idle;
     }
 
@@ -30,7 +30,7 @@ public class NPCLogic: MonoBehaviour
         if (state == NPCState.Idle && Random.Range(0f, 1f) < 0.005f) // 0.5% of probability to start walking each frame
         {
             state = NPCState.Walking;
-            importer.PlayAnimation("Walk 01", true);
+            asset.PlayAnimation("Walk 01", true);
             target = new Vector3(Random.Range(-200f, 200f), 0, Random.Range(-20f, 100f));
             direction = (target - transform.position).normalized;
             transform.LookAt(transform.position + direction);
@@ -41,7 +41,7 @@ public class NPCLogic: MonoBehaviour
             if ((transform.position - target).sqrMagnitude < 0.05f)
             {
                 state = NPCState.Idle;
-                importer.PlayAnimation("Idle 01", true);
+                asset.PlayAnimation("Idle 01", true);
             }
         }
     }
